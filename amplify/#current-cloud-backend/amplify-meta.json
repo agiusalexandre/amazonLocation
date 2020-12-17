@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amazonlocation-dev-222452-authRole",
+      "UnauthRoleArn": "arn:aws:iam::081895476357:role/amplify-amazonlocation-dev-222452-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::081895476357:role/amplify-amazonlocation-dev-222452-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-amazonlocation-dev-222452-deployment",
+      "UnauthRoleName": "amplify-amazonlocation-dev-222452-unauthRole",
+      "StackName": "amplify-amazonlocation-dev-222452",
+      "StackId": "arn:aws:cloudformation:eu-west-1:081895476357:stack/amplify-amazonlocation-dev-222452/2496dee0-3fe5-11eb-aad0-0afb701c7b22",
+      "AmplifyAppId": "d23k5clsyj93gr"
+    }
+  }
+}
